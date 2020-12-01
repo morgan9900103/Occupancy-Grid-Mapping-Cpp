@@ -1,3 +1,4 @@
+// To compile: $ g++ main.cpp -o main -std=c++11
 #include <iostream>
 #include <math.h>
 #include <vector>
